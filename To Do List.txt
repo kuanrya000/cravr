@@ -1,0 +1,36 @@
+Login Screen
+	Username
+	Password
+	Sign in
+	Create Account
+
+Main View
+	Header
+	Search
+	Side Bar*
+	Overflow
+		Profile
+		QR Code
+		Sign Out
+	Pocket/My Roll/Discover
+		Pocket - Favorite Deals, "Favorite" Businesses
+		My Roll - Following Businesses
+		Discover - Businesses Not Followed / Filters
+
+
+Business Page
+	Followers
+	Rating
+	Description
+	Address
+	Phone
+	Hours
+	Distance
+	Menu
+	Active Deals
+	New Deals
+
+
+Profile
+	QR Code
+	Loyalty
